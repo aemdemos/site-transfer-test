@@ -1,0 +1,5258 @@
+{
+  "originUrl": "https://adobe.mdsr.live",
+  "lastCrawled": "https://adobe.mdsr.live/",
+  "urls": [
+    {
+      "url": "https://adobe.mdsr.live/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "067487dd539752a8cded2ee1cddad2617ee64cf8"
+    },
+    {
+      "url": "https://adobe.mdsr.live/404",
+      "source": "SITEMAPS",
+      "targetPath": "/404",
+      "id": "6825cc55c4982a97bcdb7bacf58e64348d6912da"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://adobe.mdsr.live/admin",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/admin/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aanisha-bhattacharyya",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aanisha-bhattacharyya/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhilasha-sancheti",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/abhilasha-sancheti/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinav-java",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/abhinav-java/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinav-patel",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/abhinav-patel/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinava-java",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/abhinava-java/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhishek-sinha",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/abhishek-sinha/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-agrawal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aditya-agrawal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-basu",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aditya-basu/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-garg",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aditya-garg/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-grover",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aditya-grover/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-mahajan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aditya-mahajan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/agniv-sharma",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/agniv-sharma/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/akash-rupela",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/akash-rupela/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/alexander-rodriguez",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/alexander-rodriguez/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amanda-stent",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/amanda-stent/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amit-sinha",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/amit-sinha/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amokh-varma",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/amokh-varma/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anandhavelu-n",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/anandhavelu-n/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ananya-ganesh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ananya-ganesh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anirudh-singhal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/anirudh-singhal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anirudha-ramesh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/anirudha-ramesh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anubha-kabra",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/anubha-kabra/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anwoy-chatterjee",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/anwoy-chatterjee/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aparna-garimella",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aparna-garimella/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/apoorv-khattar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/apoorv-khattar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aradhya-neeraj-mathur",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/aradhya-neeraj-mathur/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arnau-quera-bofarull",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/arnau-quera-bofarull/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arneh-jain",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/arneh-jain/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arpan-dasgupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/arpan-dasgupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arunim-gupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/arunim-gupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashish-seth",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ashish-seth/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashmit-khandelwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ashmit-khandelwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashutosh-srivastava",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ashutosh-srivastava/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashwin-nair",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ashwin-nair/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/astitwa-saxena",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/astitwa-saxena/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/atharva-chandak",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/atharva-chandak/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avadhoot-jadhav",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/avadhoot-jadhav/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avinash-anand",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/avinash-anand/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avyakt-gupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/avyakt-gupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ayush-bhardwaj",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ayush-bhardwaj/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ayush-chopra",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ayush-chopra/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/b-aditya-prakash",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/b-aditya-prakash/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/balaji-krishnamurthy",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/balaji-krishnamurthy/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/balaji-vasan-srinivasan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/balaji-vasan-srinivasan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/bhanu-prakash-reddy-guda",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/bhanu-prakash-reddy-guda/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/changyou-chen",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/changyou-chen/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/chirag-agarwal.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/chirag-agarwal./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/chirag-agarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/chirag-agarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/debanjan-mahata",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/debanjan-mahata/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/debasis-ganguly",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/debasis-ganguly/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/devansh-batra",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/devansh-batra/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/devashish-siwatch",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/devashish-siwatch/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruv-kayastha",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/dhruv-kayastha/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruva-sahrawat",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/dhruva-sahrawat/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruva-sharawat",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/dhruva-sharawat/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/duygu-ceylan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/duygu-ceylan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/esma-s-gel",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/esma-s-gel/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/fatemi-m.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/fatemi-m./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ganesh-ramakrishnan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ganesh-ramakrishnan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/georgios-theocharous",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/georgios-theocharous/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ghassemi-m.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ghassemi-m./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harini-si",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/harini-si/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harsh-mahajan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/harsh-mahajan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harshitha-machiraju",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/harshitha-machiraju/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/heril-changwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/heril-changwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/himanshu-maheshwari",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/himanshu-maheshwari/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/hiresh-gupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/hiresh-gupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/hritik-bansal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/hritik-bansal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ishika-joshi",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ishika-joshi/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ishita-dasgupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ishita-dasgupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jagriti-sikka",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/jagriti-sikka/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jayakumar-subramanian",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/jayakumar-subramanian/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jingwan-lu",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/jingwan-lu/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jivat-meet-kaur",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/jivat-meet-kaur/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jui-shah",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/jui-shah/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/junyi-jessy-li",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/junyi-jessy-li/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kalyan-s.-pasupathy",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/kalyan-s.-pasupathy/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/khwaja-mohd.-salik",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/khwaja-mohd.-salik/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/killian-t.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/killian-t./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kowndinya-renduchintala",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/kowndinya-renduchintala/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/krishna-kumar-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/krishna-kumar-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/krishnateja-killamsetty",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/krishnateja-killamsetty/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kritarth-prasad",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/kritarth-prasad/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kumar-ayush",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/kumar-ayush/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kushal-satya",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/kushal-satya/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/laurent-itti",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/laurent-itti/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/madhur-panwar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/madhur-panwar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mahajan-a.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mahajan-a./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/manraj-grover",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/manraj-grover/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mansi-aggarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mansi-aggarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mausoom-sarkar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mausoom-sarkar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-aggarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mayank-aggarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-kulkarni",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mayank-kulkarni/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mayank-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayur-hemani",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mayur-hemani/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/michael-llordes",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/michael-llordes/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mika-hama",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/mika-hama/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/milan-aggarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/milan-aggarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/naman-lal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/naman-lal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nan-jiang",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nan-jiang/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nanda-kambhatla",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nanda-kambhatla/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/navita-goyal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/navita-goyal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/neha-choudhary",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/neha-choudhary/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nethraa-sivakumar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nethraa-sivakumar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nikaash-puri",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nikaash-puri/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nikitha-sr",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nikitha-sr/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nilay-shrivastava",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nilay-shrivastava/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nilay-srivastava",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nilay-srivastava/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/niyati-chhaya",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/niyati-chhaya/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nora-hollenstein",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nora-hollenstein/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nupur-kumari",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/nupur-kumari/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ojaswa-sharma",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ojaswa-sharma/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/open-positions",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/open-positions/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pakhi-bamdev",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/pakhi-bamdev/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/parth-patel",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/parth-patel/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/payman-vafaee",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/payman-vafaee/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pinkesh-badjatiya",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/pinkesh-badjatiya/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/piyush-gupta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/piyush-gupta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/poonam-goyal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/poonam-goyal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pragyan-banerjee",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/pragyan-banerjee/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/praneetha-vaddamanu",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/praneetha-vaddamanu/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pranit-chawla",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/pranit-chawla/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pratham-nawal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/pratham-nawal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/puneet-mangla",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/puneet-mangla/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rachit-bansal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rachit-bansal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/raihan-seraj",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/raihan-seraj/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajat-jha",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rajat-jha/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajesh-kumar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rajesh-kumar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-jain",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rajiv-jain/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-ratn-shah",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rajiv-ratn-shah/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-shah",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rajiv-shah/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rakesh-gosangi",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rakesh-gosangi/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ramesh-raskar-published-at-the-bmj",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ramesh-raskar-published-at-the-bmj/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ramesh-raskar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ramesh-raskar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/raymond-zhang",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/raymond-zhang/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rishabh-iyer",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rishabh-iyer/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rishabh-jain",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rishabh-jain/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/roger-zimmerman",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/roger-zimmerman/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/roger-zimmermann",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/roger-zimmermann/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rohit-jain",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/rohit-jain/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ryan-a.-rossi",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/ryan-a.-rossi/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/s-umesh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/s-umesh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sameer-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sameer-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/santiago-romero-brufau",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/santiago-romero-brufau/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shagun-uppal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shagun-uppal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashank-goel",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shashank-goel/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashank-shailabh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shashank-shailabh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashwat-uttam",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shashwat-uttam/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shaurya-bagga",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shaurya-bagga/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shaz-furniturewala",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shaz-furniturewala/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shelly-jain",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shelly-jain/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shinichi-satoh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shinichi-satoh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shripad-deshmukh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shripad-deshmukh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shripad-vilasrao-deshmukh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shripad-vilasrao-deshmukh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shubham-maheshwari",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/shubham-maheshwari/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-r.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/siddarth-r./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-ramesh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/siddarth-ramesh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-yedlapati",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/siddarth-yedlapati/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddharth-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/siddharth-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddhartha-gairola",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/siddhartha-gairola/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/silky-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/silky-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/simra-shahid",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/simra-shahid/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sinha-a.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sinha-a./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sohan-patnaik",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sohan-patnaik/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/somesh-singh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/somesh-singh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sonal-kumar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sonal-kumar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sreyan-ghosh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sreyan-ghosh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/stefano-petrangeli",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/stefano-petrangeli/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/subramanian-j.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/subramanian-j./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sudhir-yarram",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sudhir-yarram/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sukriti-verma",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sukriti-verma/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumedh-sontakke",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sumedh-sontakke/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumegh-roychowdury",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sumegh-roychowdury/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumit-bhatia",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sumit-bhatia/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumit-shekhar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/sumit-shekhar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/surgan-jandial",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/surgan-jandial/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/susmit-aggarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/susmit-aggarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/swapnil-parekh",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/swapnil-parekh/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanay-anand",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tanay-anand/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanmoy-chakraborty",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tanmoy-chakraborty/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanvi-karandikar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tanvi-karandikar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tarun-menta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tarun-menta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tarun-ram-menta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tarun-ram-menta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tejas-shimpi",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tejas-shimpi/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/thomas-c.-kingsley",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/thomas-c.-kingsley/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tushar",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/tushar/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/utkarsh-patel",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/utkarsh-patel/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/uttaran-bhattacharya",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/uttaran-bhattacharya/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/v-n-balasubramaniam.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/v-n-balasubramaniam./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/varun-khurana",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/varun-khurana/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/veeky-baths",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/veeky-baths/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vinay-aggarwal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vinay-aggarwal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-balasubramanian",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vineeth-balasubramanian/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-n-balasubramanian",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vineeth-n-balasubramanian/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-n.-balasubramanian",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vineeth-n.-balasubramanian/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vishwa-vinay",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vishwa-vinay/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vrinda-narayan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/vrinda-narayan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/yaman-kumar-singla",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/yaman-kumar-singla/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/yifang-yin",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/yifang-yin/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/zhang-h.",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/zhang-h./"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/zhiqiang-xu",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/author/zhiqiang-xu/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/authors/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/categories",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/categories/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/collaborators",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/collaborators/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/home",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/home/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/people",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/people/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/21-project-catchy-content",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/21-project-catchy-content/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-03-19-adobe-sneaks",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/24-03-19-adobe-sneaks/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-03-19-project-get-savvy",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/24-03-19-project-get-savvy/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-23-adobe-express-caption-writer",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/24-04-23-adobe-express-caption-writer/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-24-adobe-content-analytics",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/24-04-24-adobe-content-analytics/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-24-genai-interactive-webinars",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/post/24-04-24-genai-interactive-webinars/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication_types",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication_types/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication-type/conference/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/journal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication-type/journal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/adquesta",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/adquesta/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/advances_in_citation_text_generation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/advances_in_citation_text_generation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/aes",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/aes/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/aesthetiq",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/aesthetiq/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/align_via_actions",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/align_via_actions/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/all_should_be_equal_in_the_eyes_of_lms",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/all_should_be_equal_in_the_eyes_of_lms/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/an_empirical_study",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/an_empirical_study/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/approximate_information_state",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/approximate_information_state/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/attributional_robustness_training",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/attributional_robustness_training/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/automated_speech_scoring_system_under_the_lens",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/automated_speech_scoring_system_under_the_lens/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/bllava",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/bllava/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cabinet",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/cabinet/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/charting_the_right_manifold",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/charting_the_right_manifold/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/clauserec",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/clauserec/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/coalition",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/coalition/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cose-co",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/cose-co/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cyclip",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/cyclip/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/data_instance_prior",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/data_instance_prior/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/dear_debiasing_vision-language",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/dear_debiasing_vision-language/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/deepabm",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/deepabm/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/differentiable_agent-based_epidemiology",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/differentiable_agent-based_epidemiology/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/document_structure_extraction",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/document_structure_extraction/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/dynamictoc",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/dynamictoc/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/elif-bm25",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/elif-bm25/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/eoig",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/eoig/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/explain_your_move",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/explain_your_move/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/explaining_rl_decisions",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/explaining_rl_decisions/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/form2seq",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/form2seq/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/fpliif",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/fpliif/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harmonized_banner_creation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/harmonized_banner_creation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_ai_for",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/harnessing_ai_for/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_gans_for",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/harnessing_gans_for/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_the_vulnerability",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/harnessing_the_vulnerability/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/hush-hush_speak",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/hush-hush_speak/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/hyhtm",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/hyhtm/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/ingenious",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/ingenious/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/keyphrase_extraction_as",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/keyphrase_extraction_as/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lcbm",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/lcbm/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/learning_based_methods",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/learning_based_methods/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lifi",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/lifi/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lipper",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/lipper/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lm-core",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/lm-core/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/locate",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/locate/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/long-term-memorability",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/long-term-memorability/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lt-gan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/lt-gan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/medical_dead-ends_and",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/medical_dead-ends_and/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/medical-volume-colorization",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/medical-volume-colorization/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/minimal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/minimal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/mixboost",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/mixboost/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/mobivsr_-_mobile",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/mobivsr_-_mobile/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/multi-modal_association_based",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/multi-modal_association_based/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/neurtex",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/neurtex/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/one-shot_doc_snippet_detection",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/one-shot_doc_snippet_detection/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/opticalgan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/opticalgan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/persuasion_strategies_in",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/persuasion_strategies_in/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/posix",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/posix/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/powering_robust_fashion",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/powering_robust_fashion/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/public_health_impact_of_delaying_second_dose_of_bn",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/public_health_impact_of_delaying_second_dose_of_bn/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/reedit",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/reedit/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/retrospective_loss",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/retrospective_loss/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/robustness_and_sample",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/robustness_and_sample/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/robustness_of_markov",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/robustness_of_markov/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sac",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/sac/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sarc",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/sarc/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/scantextgan",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/scantextgan/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/shapevis",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/shapevis/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sherlock",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/sherlock/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sievenet",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/sievenet/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/simplilegal",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/simplilegal/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/simpropnet",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/simpropnet/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/smart",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/smart/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/span_classification_with",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/span_classification_with/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/speaker-conditioned_hierarchical_modeling",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/speaker-conditioned_hierarchical_modeling/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/status-quo_policy_gradient",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/status-quo_policy_gradient/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/tan-ntm",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/tan-ntm/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/towards_a_unified",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/towards_a_unified/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/transsuasion",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/transsuasion/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/umfuse",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/umfuse/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/vgflow",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/vgflow/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/video-4096",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/video-4096/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/what_ails_one-shot_image_segmentation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/what_ails_one-shot_image_segmentation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/what_do_audio",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/what_do_audio/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/zflow",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/publication/zflow/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/actor-critic-methods",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/actor-critic-methods/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-comprehension",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/ad-comprehension/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-memorability",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/ad-memorability/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-attacks",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/adversarial-attacks/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-robustness",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/adversarial-robustness/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-training",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/adversarial-training/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-triggers",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/adversarial-triggers/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/advertisement-generation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/advertisement-generation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/aes",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/aes/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-modeling",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/agent-based-modeling/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-models",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/agent-based-models/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ai-assistance",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/ai-assistance/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-analysis",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/algorithm-analysis/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-design",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/algorithm-design/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximate-planning",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/approximate-planning/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximation-error",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/approximation-error/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attention-mechanism",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/attention-mechanism/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attribution",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/attribution/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-processing",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/audio-processing/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-spectrogram",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/audio-spectrogram/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/banner-creation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/banner-creation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-in-the-wild",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/behavior-in-the-wild/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-simulation",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/behavior-simulation/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tag/behavior/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags",
+      "status": "301 Moved Permanently Redirect: https://adobe.mdsr.live/tags/"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-understanding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-data",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-science",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-sciences",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/benchmark-datasets",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/benchmarking",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/bilstm",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/bilstm-crf",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cafie",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/citation-text-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/class-imbalance",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/classification-regression",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clause-content-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clause-recommendation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clauses",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/code-embeddings",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cognitive-nlp",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/commonsense-reasoning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/compatibility-prediction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-behavior-science",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-efficiency",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-marketing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computer-vision",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/consistency",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contextual-modeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contextualized-embeddings",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contract-authoring",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contractual-documents",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contrastive-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cooperative-behavior",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/covid-19",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/creative-professionals",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cross-domain-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cross-modal",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dall-e",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-augmentation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-efficiency",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-mixtures",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-retrieval",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dataset-creation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dead-ends",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/debiasing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/deep-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/demographic-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/demographics",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dependency-trees",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/differentiable",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/diffusion-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/digital-marketing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dimensionality-reduction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/disfluency",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-encoding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-search",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-structure",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-structure-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dynamic-games",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dynamic-programming",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/encoder-decoder",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/energy-eigenstates",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/engagement",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/english-proficiency",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/epidemiology",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/equilibrium",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/event-modeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/exemplar-based",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/explanation-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/external-knowledge",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/eyetracking",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/face-parsing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fairness",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fairness-evaluation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fashion",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-attribution",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-embeddings",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-importance",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-similarity",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/few-shot",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fid-score",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/flow-based-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/form-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/forms-dataset",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/framework",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gans",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-adversarial-network",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-adversarial-networks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-methods",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-modeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gpu-computing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gradient-estimation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-compression",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-convolutional-networks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-cut",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-networks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/grid-search-network",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/harmonization-of-design-assets",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/health-outcomes",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-modeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-networks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/human-gaze-patterns",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/human-reposing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hyperbolic-geometry",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-editing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-engagement",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-processing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-retrieval",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-segmentation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-synthesis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-understanding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-warping",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/implicit-neural-representations",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/information-collection",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/information-retrieval",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/instruction-tuning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/intensive-care",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/interpretability",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/keyphrase-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/knowledge-graphs",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/knowledge-management",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/language-agnostic",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/language-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/large-content-and-behavior-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/large-language-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/latent-layers",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/latent-transformations",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/layout-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/legal-contracts",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/lipreading",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/llm-as-a-judge",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/llms",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/long-term-memorability",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/loss-functions",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/low-data",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/lstm",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/machine-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/manifold-mixup",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/markov-equilibrium",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/markov-games",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mix-and-match-virtual-try-on",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mobile-technology",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-alignment",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-coherence",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-comparison",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-evaluation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-performance",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-training",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/motion-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mrna-vaccines",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-agent",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-agent-systems",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-llm-deliberation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-modal-inputs",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-view-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimedia",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-content-understanding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-framework",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/natural-language-processing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/neural-networks",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/neural-retrieval",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/nlp",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/noise-reduction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/non-native-speech",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/object-discovery",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/object-localization",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/offline-rl",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/one-shot-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/optical-gan",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/partially-observed",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/pata-dataset",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/performance-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/personalization",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/persuasion",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/persuasion-strategy",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/photonic-gates",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/point-cloud",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-attribution",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-decisions",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-gradient",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-improvement",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-interventions",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/pose-estimation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/product-retrieval",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/proficiency-assessment",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/prompt-sensitivity",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/psycholinguistics",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/quantum-computing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/rationale-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/rationale-refinement",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/reedit",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/regularization",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/reinforcement-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/relevant-cell-highlighting",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/representation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/representation-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/retrospective-loss",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/robustness",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/runtime-complexity",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/saliency-attribution",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/saliency-maps",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sample-complexity",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sars-cov-2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scalability",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scanpaths",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scibert",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/segmentation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/selective-rationale-optimisation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/self-supervised",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/self-supervised-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-features",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-labeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-segmentation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/seq2seq",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sequence-modeling",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sequential",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/shapevis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/simulation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/snippet-detection",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/social-dilemmas",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/societal-biases",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/societal-norms",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/source-themes",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-reading",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-reconstruction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-scoring",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-synthesis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-videos",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/stable-diffusion",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/status-quo-bias",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/stochastic-processes",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/strategies",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/submodularity",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/summarization",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/surveillance",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/synthetic-instances",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/table-parsing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/table-question-answering",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/task-guided-rationale-selection",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/template-extraction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/temporal-representations",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-conditioning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-processing",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-simplification",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-to-image",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-to-image-generation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-fusion",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-preservation",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-transfer",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/topic-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/topological-data-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/trajectory-encoding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transcripts",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transfer-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transformers",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/treatment-security",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/unsupervised-relevance-scoring",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-engagement",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-feedback",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-studies",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vaccination",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/variational-circuits",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/variational-inference",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/video-reconstruction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/video-understanding",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/virtual-try-on",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vision-language-models",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-cues",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-data-analysis",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-question-answering",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-speech-recognition",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vlms",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/volume-reconstruction",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot-learning",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot-learning-for-long-videos",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/categories/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/collaborators/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/10",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/11",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/12",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/13",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/14",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/15",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/16",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/17",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/18",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/19",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/20",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/21",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/3",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/4",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/5",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/6",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/7",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/8",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/page/9",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/home/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication_types/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/10",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/11",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/12",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/13",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/14",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/15",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/16",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/17",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/18",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/19",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/20",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/21",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/22",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/23",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/24",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/25",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/26",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/27",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/28",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/29",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/3",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/30",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/31",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/4",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/5",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/6",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/7",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/8",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/page/9",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/3",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/4",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/5",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/6",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/7",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/page/8",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/journal/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/actor-critic-methods/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-comprehension/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-memorability/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-attacks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-robustness/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-training/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-triggers/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/advertisement-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/aes/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ai-assistance/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-design/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximate-planning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximation-error/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attention-mechanism/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attribution/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-processing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-spectrogram/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/banner-creation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-in-the-wild/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-simulation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-understanding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-data/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-science/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/benchmark-datasets/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavioral-sciences/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/benchmarking/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/bilstm/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/bilstm-crf/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cafie/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/citation-text-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/class-imbalance/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/classification-regression/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clause-content-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clause-recommendation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/clauses/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/code-embeddings/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cognitive-nlp/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/commonsense-reasoning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/compatibility-prediction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-behavior-science/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-efficiency/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computational-marketing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/computer-vision/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/consistency/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contextual-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contextualized-embeddings/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contract-authoring/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contractual-documents/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/contrastive-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cooperative-behavior/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/covid-19/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/creative-professionals/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cross-domain-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/cross-modal/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dall-e/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-augmentation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-efficiency/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-mixtures/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/data-retrieval/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dataset-creation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dead-ends/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/debiasing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/deep-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/demographic-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/demographics/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dependency-trees/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/differentiable/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/diffusion-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/digital-marketing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dimensionality-reduction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/disfluency/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-encoding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-search/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-structure/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/document-structure-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dynamic-games/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/dynamic-programming/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/encoder-decoder/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/energy-eigenstates/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/engagement/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/english-proficiency/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/epidemiology/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/equilibrium/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/event-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/exemplar-based/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/explanation-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/external-knowledge/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/eyetracking/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/face-parsing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fairness/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fashion/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fairness-evaluation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-attribution/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-embeddings/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-importance/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/feature-similarity/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/few-shot/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/fid-score/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/flow-based-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/form-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/forms-dataset/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/framework/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gans/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-adversarial-network/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-adversarial-networks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-methods/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/generative-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gpu-computing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/gradient-estimation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-compression/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-convolutional-networks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-cut/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/graph-networks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/grid-search-network/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/harmonization-of-design-assets/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/health-outcomes/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hierarchical-networks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/human-gaze-patterns/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/human-reposing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/hyperbolic-geometry/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-editing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-engagement/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-processing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-retrieval/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-segmentation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-synthesis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-understanding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/image-warping/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/implicit-neural-representations/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/information-collection/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/information-retrieval/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/instruction-tuning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/intensive-care/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/interpretability/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/keyphrase-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/knowledge-graphs/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/knowledge-management/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/language-agnostic/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/language-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/large-content-and-behavior-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/large-language-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/latent-layers/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/latent-transformations/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/layout-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/legal-contracts/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/lipreading/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/llm-as-a-judge/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/llms/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/long-term-memorability/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/loss-functions/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/low-data/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/lstm/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/machine-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/machine-learning/page/2",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/manifold-mixup/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/markov-equilibrium/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/markov-games/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mix-and-match-virtual-try-on/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mobile-technology/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-alignment/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-coherence/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-comparison/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-evaluation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-performance/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/model-training/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/motion-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/mrna-vaccines/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-agent/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-agent-systems/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-llm-deliberation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-modal-inputs/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multi-view-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimedia/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-content-understanding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-framework/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/multimodal-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/natural-language-processing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/neural-networks/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/neural-retrieval/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/nlp/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/noise-reduction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/non-native-speech/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/object-discovery/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/object-localization/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/offline-rl/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/one-shot-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/optical-gan/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/partially-observed/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/pata-dataset/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/performance-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/personalization/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/persuasion/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/persuasion-strategy/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/photonic-gates/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/point-cloud/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-attribution/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-decisions/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-gradient/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-improvement/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/policy-interventions/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/pose-estimation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/product-retrieval/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/prompt-sensitivity/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/proficiency-assessment/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/psycholinguistics/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/quantum-computing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/rationale-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/rationale-refinement/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/reedit/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/reinforcement-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/relevant-cell-highlighting/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/regularization/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/representation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/representation-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/retrospective-loss/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/robustness/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/runtime-complexity/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/saliency-attribution/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/saliency-maps/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sample-complexity/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sars-cov-2/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scalability/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scanpaths/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/scibert/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/segmentation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/selective-rationale-optimisation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/self-supervised/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/self-supervised-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-features/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-labeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/semantic-segmentation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/seq2seq/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sequence-modeling/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/sequential/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/shapevis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/simulation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/snippet-detection/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/social-dilemmas/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/societal-biases/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/societal-norms/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/source-themes/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-reading/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-reconstruction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-scoring/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-synthesis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/stable-diffusion/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/speech-videos/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/status-quo-bias/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/stochastic-processes/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/strategies/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/submodularity/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/summarization/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/surveillance/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/synthetic-instances/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/table-parsing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/table-question-answering/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/task-guided-rationale-selection/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/template-extraction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/temporal-representations/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-conditioning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-processing/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-simplification/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-to-image/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/text-to-image-generation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-fusion/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-preservation/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/texture-transfer/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/topic-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/topological-data-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/trajectory-encoding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transcripts/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transfer-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/transformers/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/treatment-security/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/unsupervised-relevance-scoring/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-engagement/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-feedback/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/user-studies/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vaccination/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/variational-circuits/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/variational-inference/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/video-reconstruction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/video-understanding/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/virtual-try-on/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vision-language-models/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-cues/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-data-analysis/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-question-answering/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/visual-speech-recognition/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/vlms/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/volume-reconstruction/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot-learning/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/zero-shot-learning-for-long-videos/page/1",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/admin/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/categories/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/collaborators/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/authors/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/home/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/people/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication_types/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tags/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aanisha-bhattacharyya/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhilasha-sancheti/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinav-patel/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhishek-sinha/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinav-java/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/abhinava-java/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-agrawal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-basu/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-garg/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-grover/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aditya-mahajan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/agniv-sharma/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/akash-rupela/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/alexander-rodriguez/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amanda-stent/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amit-sinha/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/amokh-varma/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anandhavelu-n/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ananya-ganesh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anirudh-singhal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anirudha-ramesh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anubha-kabra/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/anwoy-chatterjee/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aparna-garimella/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/apoorv-khattar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/aradhya-neeraj-mathur/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arnau-quera-bofarull/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arneh-jain/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arpan-dasgupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/arunim-gupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashish-seth/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashmit-khandelwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashutosh-srivastava/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ashwin-nair/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/astitwa-saxena/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/atharva-chandak/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avadhoot-jadhav/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avinash-anand/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/avyakt-gupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ayush-bhardwaj/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ayush-chopra/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/b-aditya-prakash/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/balaji-krishnamurthy/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/balaji-vasan-srinivasan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/bhanu-prakash-reddy-guda/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/changyou-chen/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/chirag-agarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/chirag-agarwal./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/debanjan-mahata/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/debasis-ganguly/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/devansh-batra/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/devashish-siwatch/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruv-kayastha/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruva-sahrawat/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/dhruva-sharawat/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/duygu-ceylan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/esma-s-gel/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/fatemi-m./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ganesh-ramakrishnan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/georgios-theocharous/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ghassemi-m./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harini-si/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harsh-mahajan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/harshitha-machiraju/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/heril-changwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/himanshu-maheshwari/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/hiresh-gupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/hritik-bansal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ishika-joshi/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ishita-dasgupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jagriti-sikka/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jayakumar-subramanian/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jingwan-lu/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jivat-meet-kaur/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/jui-shah/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/junyi-jessy-li/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kalyan-s.-pasupathy/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/khwaja-mohd.-salik/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/killian-t./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kowndinya-renduchintala/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/krishna-kumar-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/krishnateja-killamsetty/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kritarth-prasad/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kumar-ayush/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/kushal-satya/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/laurent-itti/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/madhur-panwar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mahajan-a./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/manraj-grover/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mansi-aggarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mausoom-sarkar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-aggarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-kulkarni/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayank-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mayur-hemani/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/michael-llordes/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/mika-hama/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/milan-aggarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/naman-lal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nan-jiang/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nanda-kambhatla/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/navita-goyal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/neha-choudhary/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nethraa-sivakumar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nikaash-puri/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nikitha-sr/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nilay-shrivastava/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nilay-srivastava/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/niyati-chhaya/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nora-hollenstein/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/nupur-kumari/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ojaswa-sharma/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/open-positions/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pakhi-bamdev/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/parth-patel/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/payman-vafaee/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pinkesh-badjatiya/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/piyush-gupta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/poonam-goyal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pragyan-banerjee/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/praneetha-vaddamanu/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pranit-chawla/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/pratham-nawal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/puneet-mangla/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rachit-bansal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/raihan-seraj/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajat-jha/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajesh-kumar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-jain/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-ratn-shah/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rajiv-shah/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rakesh-gosangi/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ramesh-raskar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ramesh-raskar-published-at-the-bmj/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/raymond-zhang/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rishabh-iyer/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rishabh-jain/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/roger-zimmerman/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/roger-zimmermann/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/rohit-jain/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/ryan-a.-rossi/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/s-umesh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sameer-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/santiago-romero-brufau/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shagun-uppal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashank-goel/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashank-shailabh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shashwat-uttam/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shaurya-bagga/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shaz-furniturewala/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shelly-jain/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shinichi-satoh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shripad-deshmukh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shripad-vilasrao-deshmukh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/shubham-maheshwari/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-r./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-ramesh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddarth-yedlapati/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddharth-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/siddhartha-gairola/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/silky-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/simra-shahid/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sinha-a./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sohan-patnaik/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/somesh-singh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sonal-kumar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sreyan-ghosh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/stefano-petrangeli/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/subramanian-j./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sudhir-yarram/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sukriti-verma/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumedh-sontakke/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumegh-roychowdury/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumit-bhatia/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/sumit-shekhar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/surgan-jandial/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/susmit-aggarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/swapnil-parekh/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanay-anand/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanmoy-chakraborty/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tanvi-karandikar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tarun-menta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tarun-ram-menta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tejas-shimpi/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/thomas-c.-kingsley/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/tushar/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/utkarsh-patel/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/uttaran-bhattacharya/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/v-n-balasubramaniam./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/veeky-baths/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/varun-khurana/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vinay-aggarwal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-balasubramanian/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-n-balasubramanian/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vineeth-n.-balasubramanian/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vishwa-vinay/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/vrinda-narayan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/yaman-kumar-singla/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/yifang-yin/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/zhang-h./",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/author/zhiqiang-xu/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/21-project-catchy-content/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-03-19-adobe-sneaks/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-03-19-project-get-savvy/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-23-adobe-express-caption-writer/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-24-adobe-content-analytics/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/post/24-04-24-genai-interactive-webinars/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/adquesta/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/advances_in_citation_text_generation/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/aes/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/aesthetiq/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/align_via_actions/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/all_should_be_equal_in_the_eyes_of_lms/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/an_empirical_study/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/approximate_information_state/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/attributional_robustness_training/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/automated_speech_scoring_system_under_the_lens/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/bllava/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cabinet/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/charting_the_right_manifold/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/clauserec/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/coalition/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cose-co/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/cyclip/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/data_instance_prior/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/dear_debiasing_vision-language/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/deepabm/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/differentiable_agent-based_epidemiology/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/document_structure_extraction/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/dynamictoc/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/elif-bm25/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/eoig/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/explain_your_move/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/explaining_rl_decisions/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/form2seq/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/fpliif/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harmonized_banner_creation/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_ai_for/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_gans_for/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/harnessing_the_vulnerability/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/hush-hush_speak/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/hyhtm/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/ingenious/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/keyphrase_extraction_as/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lcbm/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/learning_based_methods/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lifi/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lipper/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lm-core/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/locate/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/long-term-memorability/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/lt-gan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/medical-volume-colorization/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/medical_dead-ends_and/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/minimal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/mixboost/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/mobivsr_-_mobile/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/multi-modal_association_based/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/neurtex/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/one-shot_doc_snippet_detection/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/opticalgan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/persuasion_strategies_in/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/posix/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/powering_robust_fashion/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/public_health_impact_of_delaying_second_dose_of_bn/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/reedit/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/retrospective_loss/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/robustness_and_sample/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/robustness_of_markov/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sac/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sarc/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/scantextgan/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/shapevis/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sherlock/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/sievenet/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/simplilegal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/simpropnet/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/smart/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/span_classification_with/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/speaker-conditioned_hierarchical_modeling/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/status-quo_policy_gradient/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/tan-ntm/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/towards_a_unified/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/transsuasion/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/umfuse/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/vgflow/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/video-4096/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/what_ails_one-shot_image_segmentation/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/what_do_audio/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication/zflow/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/conference/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/publication-type/journal/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/actor-critic-methods/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-comprehension/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ad-memorability/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-attacks/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-robustness/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-training/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/adversarial-triggers/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/advertisement-generation/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/aes/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-modeling/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/agent-based-models/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/ai-assistance/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-analysis/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/algorithm-design/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximate-planning/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/approximation-error/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attention-mechanism/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/attribution/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-processing/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/audio-spectrogram/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/banner-creation/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-in-the-wild/",
+      "status": "403 Forbidden"
+    },
+    {
+      "url": "https://adobe.mdsr.live/tag/behavior-simulation/",
+      "status": "403 Forbidden"
+    }
+  ]
+}
